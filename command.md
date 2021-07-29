@@ -20,3 +20,7 @@ yarn add --dev jest @babel/preset-typescript @types/jest
 
 <!-- TESTING LIBRARY -->
 yarn add --dev @testing-library/react @testing-library/jest-dom
+
+<!-- STYLED COMPONENTS -->
+yarn add --dev @types/styled-components babel-plugin-styled-components
+yarn add styled-components
