@@ -14,3 +14,9 @@ yarn husky install
 
 <!-- LINT STAGED -->
 yarn add lint-staged --dev
+
+<!-- JEST -->
+yarn add --dev jest @babel/preset-typescript @types/jest
+
+<!-- TESTING LIBRARY -->
+yarn add --dev @testing-library/react @testing-library/jest-dom
