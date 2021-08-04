@@ -17,6 +17,7 @@ yarn add lint-staged --dev
 
 <!-- JEST -->
 yarn add --dev jest @babel/preset-typescript @types/jest
+yarn add --dev jest-styled-components
 
 <!-- TESTING LIBRARY -->
 yarn add --dev @testing-library/react @testing-library/jest-dom
@@ -24,3 +25,10 @@ yarn add --dev @testing-library/react @testing-library/jest-dom
 <!-- STYLED COMPONENTS -->
 yarn add --dev @types/styled-components babel-plugin-styled-components
 yarn add styled-components
+
+yarn add --dev jest-styled-components
+
+<!-- STORYBOOK -->
+npx sb init
+
+yarn add @storybook/addon-knobs --dev
