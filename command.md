@@ -32,3 +32,8 @@ yarn add --dev jest-styled-components
 npx sb init
 
 yarn add @storybook/addon-knobs --dev
+
+
+<!-- PWA -->
+
+yarn add next-pwa
